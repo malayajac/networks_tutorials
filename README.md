@@ -1,1 +1,1 @@
-# networks_tutorial
+# Tutorials on Network Science and NetworkX
